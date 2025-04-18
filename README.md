@@ -1,4 +1,5 @@
-📌 Project Overview: Linear Regression with Scikit-Learn
+**📌 Project Overview: Linear Regression with Scikit-Learn**
+
 This is a basic implementation of Linear Regression using Scikit-Learn. The goal was to get hands-on experience with applying a machine learning model to real data and visualizing the results.
 
 What I did:
